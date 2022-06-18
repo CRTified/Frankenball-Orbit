@@ -10,4 +10,4 @@ This project was mostly intended to be a precursor for a different PCB drop-in.
 
 ## Rendered PCB
 
-![Rendered PCB](./Frankenball Orbit.png "Rendered PCB")
+![Rendered PCB](./frankenball.png "Rendered PCB")
