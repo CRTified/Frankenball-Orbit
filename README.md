@@ -1,3 +1,5 @@
+# Warning: This PCB is untested. It was never fabricated and never tested.
+
 # Frankenball Orbit
 
 This project is a drop-in replacement PCB for the Kensington Orbit.
